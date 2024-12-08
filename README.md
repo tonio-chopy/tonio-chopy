@@ -3,7 +3,7 @@
 </h3>
 
 
-<img align="right" alt="Coding" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZrdWlkY2FsZndqN3UzM2tvc2R0dWF4aHpsM25tb3FvbDZ3b2xhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoEDLunUwOYBqcekhE/giphy.webp">
+<img align="right" alt="Coding" width="380" src="https://media3.giphy.com/media/RGyUJwAFjP38P3uEiV/giphy.gif?cid=6c09b9527h0kesbis9cleayu94act53tltoyv952kv6eh27a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
 ---
 
@@ -16,3 +16,6 @@
 ---
 
 
+![tonio-chopy's Stats](https://github-readme-stats.vercel.app/api?username=tonio-chopy&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![tonio-chopy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonio-chopy&theme=shades-of-purple&hide_border=true)
+![tonio-chopy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonio-chopy&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
