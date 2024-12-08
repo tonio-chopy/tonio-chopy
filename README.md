@@ -15,4 +15,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/tonio-chopy/tonio-chopy/output/github-contribution-grid-snake-dark.svg)
+
