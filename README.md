@@ -18,10 +18,11 @@ A 42 student who likes to play around with Computers and stuff.<br>I’m current
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonio-chopy&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tonio-chopy&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonio-chopy&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tonio-chopy&icon=9&color=1)](https://visitcount.itsvg.in)
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=push%20swap&fontSize=90&animation=fadeIn&fontAlignY=38&desc=working%20on.&descAlignY=51&descAlign=62)
