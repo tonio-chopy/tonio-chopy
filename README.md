@@ -28,3 +28,5 @@ A 42 student who likes to play around with Computers and stuff.<br>I’m current
 [![](https://visitcount.itsvg.in/api?id=tonio-chopy&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
