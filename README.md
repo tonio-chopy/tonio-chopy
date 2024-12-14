@@ -12,7 +12,7 @@ A 42 student who likes to play around with Computers and stuff.<br>I’m current
 
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tonio_llk) 
-<a href="www.linkedin.com/in/antonio-laualiki-472a33257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-laualiki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antonio-laualiki-472a33257/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-laualiki" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,bash,godot,obsidian)](https://skillicons.dev)
