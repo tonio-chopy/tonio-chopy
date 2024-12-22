@@ -21,4 +21,4 @@ I'm a young software engineer student born in New Caledonia who loves apples, bo
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=push%20swap&fontSize=90&animation=fadeIn&fontAlignY=38&desc=working%20on.&descAlignY=51&descAlign=62)
 
 ## Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](niolaualiki@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niolaualiki@gmail.com)
