@@ -1,7 +1,7 @@
 ![Banner](https://github.com/tonio-chopy/tonio-chopy/blob/main/banner.gif)
  
 # Who Am I ?
-I'm a young software engineer student born in New Caledonia who loves apples, books and spending time learning new things. I'm currently studying at 42 Angouleme.
+I'm a young software engineer student born in New Caledonia who loves apples, graphs, books and spending time learning new things. I'm currently studying at 42 Angouleme.
 
 ### Stack
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
