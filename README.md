@@ -1,6 +1,4 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=90&center=true&vCenter=true&width=1600&height=100&duration=4000&lines=Hello+World!+👾" />
-</h3>
+![Banner](https://github.com/tonio-chopy/tonio-chopy/blob/main/banner.gif)
  
 # Who Am I ?
 I'm a young software engineer student born in New Caledonia who loves apples, books and spending time learning new things. I'm currently studying at 42 Angouleme.
