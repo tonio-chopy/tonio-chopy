@@ -1,5 +1,4 @@
 ![Banner](https://github.com/tonio-chopy/tonio-chopy/blob/main/banner.gif)
- 
 # Who Am I ?
 I'm a young software engineer student born in New Caledonia who loves apples, graphs, books and spending time learning new things. I'm currently studying at 42 Angouleme.
 
@@ -13,10 +12,16 @@ I'm a young software engineer student born in New Caledonia who loves apples, gr
 ### Workflow
 ![Static Badge](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%23A8B9CC&labelColor=%2330353b&color=%23d4c1ae) ![Static Badge](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%23A8B9CC&labelColor=%2330353b&color=%23d4c1ae) ![Static Badge](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=%23A8B9CC&labelColor=%2330353b&color=%23d4c1ae) ![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=%23A8B9CC&labelColor=%2330353b&color=%23d4c1ae)
 
-## Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=%23FCC624&labelColor=%2330353b&color=%23d4c1ae)](mailto:niolaualiki@gmail.com)
+<details>
+<summary>
+<h3>Contacts</h3>
+</summary>
+
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=%23FCC624&labelColor=%2330353b&color=%23d4c1ae)](mailto:niolaualiki@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=42&logoColor=%23FCC624&labelColor=%2330353b&color=%23d4c1ae)](https://www.linkedin.com/in/antonio-laualiki)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=%23FCC624&labelColor=%2330353b&color=%23d4c1ae)](https://www.instagram.com/tonio_llk)
+
+</details>
 
 [![](https://visitcount.itsvg.in/api?id=tonio-chopy&icon=9&color=1)](https://visitcount.itsvg.in)
 
