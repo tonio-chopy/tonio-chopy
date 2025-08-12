@@ -21,4 +21,4 @@ I'm a young software engineer student born in New Caledonia who loves apples, gr
 [![](https://visitcount.itsvg.in/api?id=tonio-chopy&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=42-school&fontSize=90&animation=fadeIn&fontAlignY=38&desc=working%20on.&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=51&descAlign=62)
