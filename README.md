@@ -4,17 +4,15 @@
 I'm a young software engineer student born in New Caledonia who loves apples, graphs, books and spending time learning new things. I'm currently studying at 42 Angouleme.
 
 ### Stack
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=grey) ![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=grey)
+ ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=grey) ![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=white) ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=grey) 
 
----
+### Learning
+![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&labelColor=grey) ![Static Badge](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=python&fontSize=90&animation=fadeIn&fontAlignY=38&desc=working%20on.&descAlignY=51&descAlign=62)
+### Workflow
+![Static Badge](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%237C3AED&labelColor=white) ![Static Badge](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%234E49EE&labelColor=white)
+ ![Static Badge](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=%2357A143&labelColor=grey) ![Static Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=%23FCC624&labelColor=grey)
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niolaualiki@gmail.com)
@@ -22,3 +20,6 @@ I'm a young software engineer student born in New Caledonia who loves apples, gr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tonio_llk)
 
 [![](https://visitcount.itsvg.in/api?id=tonio-chopy&icon=9&color=1)](https://visitcount.itsvg.in)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=42-school&fontSize=90&animation=fadeIn&fontAlignY=38&desc=working%20on.&descAlignY=51&descAlign=62)
