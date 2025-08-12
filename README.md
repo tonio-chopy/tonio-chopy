@@ -2,7 +2,7 @@
 <table>
  <tr>
   <td valign="top">
-     <img src="https://badge.mediaplus.ma/levi/alaualik?1337Badge=off&UM6P=off" alt="alaualik's 42 stats" />
+     <img src="https://badge.mediaplus.ma/honeytones/alaualik?1337Badge=off&UM6P=off" alt="alaualik's 42 stats" />
   </td>
   <td>
    <p>
