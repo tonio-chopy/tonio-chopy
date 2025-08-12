@@ -8,7 +8,7 @@ I'm a young software engineer student born in New Caledonia who loves apples, gr
  ![Static Badge](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=grey) ![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=white) ![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=grey) 
 
 ### Learning
-![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&labelColor=grey) ![Static Badge](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=%23000000&labelColor=white)
+![Static Badge](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=%23E87D0D&labelColor=grey)
 
 ### Workflow
 ![Static Badge](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%237C3AED&labelColor=white) ![Static Badge](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%234E49EE&labelColor=white)
