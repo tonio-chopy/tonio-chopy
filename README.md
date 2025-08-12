@@ -1,6 +1,21 @@
 ![Banner](https://github.com/tonio-chopy/tonio-chopy/blob/main/banner.gif)
-# Who Am I ?
-I'm a young software engineer student born in New Caledonia who loves apples, graphs, books and spending time learning new things. I'm currently studying at 42 Angouleme.
+<table>
+ <tr>
+  <td valign="top">
+     <img src="https://badge.mediaplus.ma/levi/alaualik?1337Badge=off&UM6P=off" alt="alaualik's 42 stats" />
+  </td>
+  <td>
+   <p>
+     <h2>Who Am I ?</h2>
+     I'm a young software engineer student.<br>
+     born in New Caledonia who loves apples, graphs, books and spending time learning new things.<br>
+     I'm currently studying at 42 Angouleme.
+   </p>
+  </td>
+    </a>
+  </td>
+ </tr>
+</table>
 
 ### Stack
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
