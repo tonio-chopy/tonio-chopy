@@ -2,7 +2,9 @@
 <table>
  <tr>
   <td valign="top">
+    <a href="https://profile.intra.42.fr/users/alaualik">
      <img src="https://badge.mediaplus.ma/honeytones/alaualik?1337Badge=off&UM6P=off" alt="alaualik's 42 stats" />
+    </a>
   </td>
   <td>
    <p>
