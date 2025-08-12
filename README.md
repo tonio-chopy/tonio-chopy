@@ -14,7 +14,7 @@ I'm a young software engineer student born in New Caledonia who loves apples, gr
 
 <details>
 <summary>
-<h3>Contacts</h3>
+<h3>Contacts 👋</h3>
 </summary>
 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=%23FCC624&labelColor=%2330353b&color=%23d4c1ae)](mailto:niolaualiki@gmail.com)
