@@ -9,7 +9,7 @@
   <td>
    <p>
      <h2 align="center">Who Am I ?</h2>
-     I'm a young software engineer student.<br>
+     I'm a young software engineer student<br>
      born in New Caledonia who loves apples, graphs, books and spending time learning new things.<br>
      I'm currently studying at 42 Angouleme.
    </p>
