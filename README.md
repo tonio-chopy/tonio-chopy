@@ -29,6 +29,8 @@
 ### Workflow
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![wezterm](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
 
+#### Feel free to reach me right below, if you want to work or simply to discuss 😎!</p>
+
 <details>
 <summary>
 <h3>Contacts 📨</h3>
