@@ -30,7 +30,7 @@
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![wezterm](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&duration=3500&pause=1000&color=%23d4c1ae&width=500&lines=FEEL+FREE+TO+REACH+ME+RIGHT+BELOW+!)
-<img align="center-right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/79258361-c121-400c-8245-600b272b1eea" width="160" /><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="70">
+<img align="center-right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/79258361-c121-400c-8245-600b272b1eea" width="160" />
 
 <details>
 <summary>
