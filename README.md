@@ -25,6 +25,7 @@
 
 ### Learning
 ![blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
+![babylonjs](https://img.shields.io/badge/babylonjs-BB464B?style=for-the-badge&logo=babylondotjs&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
 
 ### Workflow
 ![obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![wezterm](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![neovim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
