@@ -20,7 +20,7 @@
 </table>
 
 ### Stack
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
+![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![css](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae) ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=%23e8934d&labelColor=%2330353b&color=%23d4c1ae)
 
 
 ### Learning
